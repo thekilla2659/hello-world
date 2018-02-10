@@ -1,2 +1,2 @@
 # hello-world
-The answer is does Bruno Mars is gay?
+Does Bruno Mars is gay?
